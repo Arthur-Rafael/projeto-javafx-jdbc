@@ -6,7 +6,7 @@
 <?import javafx.scene.text.Font?>
 
 
-<VBox prefHeight="301.0" prefWidth="480.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/20.0.1">
+<VBox prefHeight="301.0" prefWidth="480.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/17.0.1">
    <children>
       <Label prefHeight="26.0" prefWidth="74.0" text="About">
          <font>
